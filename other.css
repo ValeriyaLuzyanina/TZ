@@ -1,0 +1,7 @@
+<body>
+  <p class="highlight">Текст</p>
+  <p>Другой текст</p>
+</body>
+.highlight {
+  background-color: yellow;
+}
