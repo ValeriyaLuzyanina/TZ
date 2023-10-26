@@ -17,3 +17,42 @@
     0,1,2
   ]
 }
+{
+  "Comment":"My comment",
+  "Count":10,
+  "DiskParam":
+  {
+    "DB":10.000000,
+    "DBAngle":1.234000
+  },
+
+    {
+      "Caption":"C",
+      "Value":67
+    }
+  ],
+  "Slots":
+  [
+    0,1,2
+  ]
+}
+{
+  "Comment":"My comment",
+  "Count":10,
+  "DiskParam":
+  {
+    "DB":10.000000,
+    "DBAngle":1.234000
+  },
+
+    {
+      "Caption":"C",
+      "Value":67
+    }
+  ],
+  "Slots":
+  [
+    0,1,2
+  ]
+}
+
