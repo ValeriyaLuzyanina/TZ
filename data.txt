@@ -6,17 +6,7 @@
     "DB":10.000000,
     "DBAngle":1.234000
   },
-  "Range":true,
-  "Blades":
-  [
-    {
-      "Caption":"A",
-      "Value":65
-    },
-    {
-      "Caption":"B",
-      "Value":66
-    },
+
     {
       "Caption":"C",
       "Value":67
